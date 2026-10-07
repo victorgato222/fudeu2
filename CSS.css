@@ -1,0 +1,106 @@
+.Pink {
+    text-align: center;
+    font-size: 22px;
+    background-color: lightblue;
+     color: darkblue;
+  border: 2px solid blue;
+  border-radius: 15px;
+  margin: 15px;
+  padding: 15px;
+
+}
+
+body {
+    background-color: aliceblue;
+}
+.Center {
+  display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 15px;
+  padding: 0px;
+  overflow: hidden;
+  background-color: lightblue;
+  border: 2px solid blue;
+  border-radius: 15px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: darkblue;
+}
+
+.Orange {
+  background-color: rgb(255,244,163);
+  border: 5px solid rgb(255,195,96);
+  color: orange;
+  border-radius: 10px;
+  padding: 5px;
+  font-size: 20px;
+  float: left;
+}
+
+#Jacker {
+  float: left;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.Blue {
+  background-color: lightblue;
+  color: aliceblue;
+  border: 5px solid rgba(89, 89, 168, 0.388);
+  border-radius: 10px;
+  padding: 5px;
+  font-size: 20px;
+  float: left;
+}
+#Applebackground {
+  background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6b67ac3f-1e49-4de0-a78f-eb1df5f41b6a/d3e1gqn-582033ba-461a-401f-8f59-05ed169c539e.png/v1/fill/w_1280,h_1374/applejack_cutie_mark_by_blackgryph0n_d3e1gqn-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM3NCIsInBhdGgiOiIvZi82YjY3YWMzZi0xZTQ5LTRkZTAtYTc4Zi1lYjFkZjVmNDFiNmEvZDNlMWdxbi01ODIwMzNiYS00NjFhLTQwMWYtOGY1OS0wNWVkMTY5YzUzOWUucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Uh6ZtMVI2OZ9UsHUVZ6nGpb97SupaKLshb3fVPuZbHQ);
+  background-repeat: repeat;
+  backdrop-filter: blur(5px);
+}
+
+#logoPony {
+/* background-image: url(https://upload.wikimedia.org/wikipedia/pt/d/dd/My_Little_Pony_G4_logo.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original);*/
+  background-repeat: repeat;
+  backdrop-filter: blur(5px);
+}
+
+.Purple {
+  background-color: white;
+  color: rgb(97,55,122);
+  border: 5px solid rgba(89, 89, 168, 0.388);
+  border-radius: 10px;
+  padding: 5px;
+  font-size: 20px;
+  float: left;
+}
+
+#DiamondBackground {
+  background-image: url(RarityCutieMark.png);
+  background-repeat: repeat;
+  backdrop-filter: blur(5px);
+}
+
+
+#CloudBackground {
+  background-image: url(Cloud.png);
+  background-repeat: repeat;
+  backdrop-filter: blur(5px);
+}
